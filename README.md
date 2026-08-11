@@ -17,32 +17,32 @@ The portfolio website presents my personal information, skills, projects, and co
 
 ## ✨ Features
 
-- 🏠 Home section
-- 👤 About Me section
-- 💻 Skills section
-- 📂 Projects section
-- 📞 Contact section
-- 📱 Responsive design
-- 🔗 Navigation menu
-- 📧 Contact form
+ Home section
+ About Me section
+ Skills section
+ Projects section
+ Contact section
+Responsive design
+Navigation menu
+Contact form
 
-## 🛠️ Technologies Used
+# Technologies Used
 
 - HTML
 - CSS
 - JavaScript
 
 - 
-## 💻 Tasks Completed
+## Tasks Completed
 
 During the internship, I worked on various assigned tasks and projects, including:
 
-- Developing project features.
-- Implementing required functionalities.
-- Debugging and fixing errors.
-- Testing application features.
-- Improving the overall functionality of the project.
+ Developing project features.
+ Implementing required functionalities.
+ Debugging and fixing errors.
+ Testing application features.
+ Improving the overall functionality of the project.
 
-- #Key Learning Outcocomes
+ #Key Learning Outcomes
 
 This internship helped me understand how programming concepts are applied to practical projects. I gained hands-on experience in developing features, identifying errors, debugging code, and working with development tools.
