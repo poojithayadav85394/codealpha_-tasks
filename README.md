@@ -43,6 +43,20 @@ During the internship, I worked on various assigned tasks and projects, includin
  Testing application features.
  Improving the overall functionality of the project.
 
+
+ Skills I Gained
+
+Through this internship, I improved my knowledge and practical skills in:
+
+Programming
+Problem Solving
+Web Development
+Debugging
+ Git & GitHub
+ Project Development
+
+ 
+
  #Key Learning Outcomes
 
 This internship helped me understand how programming concepts are applied to practical projects. I gained hands-on experience in developing features, identifying errors, debugging code, and working with development tools.
